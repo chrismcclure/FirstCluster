@@ -10,7 +10,7 @@ https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deplo
 #### 1) Install Kubernetes for windows.  
     Follow the steps on here: https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 #### 2) Install MiniKube for windows
-    Follow the steps on here:https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+    Follow the steps on here: https://minikube.sigs.k8s.io/docs/start/
 #### 3) Run this command if you haven't already:  minikube start
 #### 4) Change the directory on powershell this directory and you are ready to go. 
 
