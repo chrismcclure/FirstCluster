@@ -2,6 +2,9 @@
 
 I wanted to make a little project to do the very very very basics of K8s. I think I did that.  I also didn't want to type the kubectl command over and over, so I made a couple scripts. 
 
+I just followed the tutorial from Kubernetes here and added some scripting. 
+https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/
+
 ## Prerequisites.   
 
 #### 1) Install Kubernetes for windows.  
@@ -9,7 +12,7 @@ I wanted to make a little project to do the very very very basics of K8s. I thin
 #### 2) Install MinKube for windows
     Follow the steps on here:https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 #### 3) Run this command if you haven't already:  minikube start
-#### 4) Change the directory on powershel this directory and you are ready to go. 
+#### 4) Change the directory on powershell this directory and you are ready to go. 
 
 
 ## Demo
